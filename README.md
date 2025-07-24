@@ -12,6 +12,12 @@ I obtained the dataset from Kaggle, and it can be found here.
 
 Data cleaning, feature engineering, and exploratory data analysis of Online ecommerce sales data using MySQL Workbench
 
+# Tools
+
+MySQL WorkBench
+
+# Process
+
 I downloaded the dataset and opened it on Microsoft Excel to scan through it to gather some insight on the information it contains and discover the patterns that exist in it. However, I noticed the data was dirty. Several columns had wrong values and data placed in them that were supposed to be in other columns. For example, there were strings in columns meant for integers. There were also blank values in the rows of some columns.
 
 I determined that the dataset needed to be cleaned in MySQL Workbench before analysis. Therefore, I closed Microsoft Excel and opened MySQL Workbench and created a database to import the dataset into.
