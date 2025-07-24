@@ -70,7 +70,7 @@ MySQL WorkBench
 
 ### Exploratory Data Analysis
 
-After the feature engineering exercise, I had all the information I needed for exploratory data analysis. During EDA, I queried the data to answer the following questions:
+* After the feature engineering exercise, I had all the information I needed for exploratory data analysis. During EDA, I queried the data to answer the following questions:
 
 **Top selling item**: Out of the 4,026 unique items sold at the ecommerce store, WHITE HANGING HEART T-LIGHT HOLDER sold the most times (2,323) during the timespan of the dataset. Therefore, this item should always be in stock since customers want it.
 
