@@ -40,7 +40,7 @@ MySQL WorkBench
 
 * One problem that jumped out to me was that some values in the quantity column. This was odd because the quantity of goods sold at an ecommerce store should not be negative. I queried all the data that fell into the category for further analysis. I noticed that many of the entries with this problem had similar customer IDs and occurred in multiple countries.
 
-I initially thought the problem was most likely caused by entry errors, but I also noticed that some product descriptions of this category of items were listed as “damaged”, “discount”, “faulty”, and “samples”, and they were alongside listings with normal product descriptions. I concluded all these entries were non-sales. Since all these only accounted for 10,624 rows, which is less than 2% of all rows, I created a copy of the table and deleted all the rows.
+  I initially thought the problem was most likely caused by entry errors, but I also noticed that some product descriptions of this category of items were listed as “damaged”, “discount”, “faulty”, and “samples”, and they were alongside listings with normal product descriptions. I concluded all these entries were non-sales. Since all these only accounted for 10,624 rows, which is less than 2% of all rows, I created a copy of the table and deleted all the rows.
 
 ![image alt](https://github.com/jefferyokpala/MySQL-Project-Ecommerce-Online-Sales/blob/main/image/image9.png?raw=true)
 
