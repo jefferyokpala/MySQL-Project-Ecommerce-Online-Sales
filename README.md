@@ -1,4 +1,4 @@
-# MySQL-Project-Ecommerce-Online-Sales
+# MySQL Project Ecommerce Online Sales
 
 ## Overview
 
