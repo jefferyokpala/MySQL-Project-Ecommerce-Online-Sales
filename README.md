@@ -23,3 +23,5 @@ I downloaded the dataset and opened it on Microsoft Excel to scan through and ga
 I determined that the dataset needed to be cleaned in MySQL Workbench before analysis. Therefore, I closed Microsoft Excel and opened MySQL Workbench and created a database to import the dataset into.
 
 I created the database and a sales table, and assigned a VARCHAR data type to all columns because they were dirty and a mix of numbers and strings. Without doing that, data would have been truncated while importing it, and I would not be able to analyse the entire dataset.
+
+![image alt](https://github.com/jefferyokpala/MySQL-Project-Ecommerce-Online-Sales/blob/main/image/image14.png?raw=true)
