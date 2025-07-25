@@ -6,7 +6,7 @@ SQL-based data analysis of ecommerce online sales dataset. The dataset contains 
 
 ## Data Source
 
-I obtained the dataset from Kaggle, and it can be found here.
+I obtained the dataset from Kaggle, and it can be found [here](https://www.kaggle.com/datasets/umerkk12/online-retail-business).
 
 ## Business Task
 
