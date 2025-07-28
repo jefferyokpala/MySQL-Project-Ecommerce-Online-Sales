@@ -34,7 +34,7 @@ MySQL WorkBench
 
 ### Data Cleaning
 
-* First, I searched for duplicate rows with a WINDOW function and CTE found 5,268 of them, which I deleted. Then I moved to standardize the data.
+* First, I searched for duplicate rows with a WINDOW function and CTE, and found 5,268 of them, which I deleted. Then I proceeded to standardize the data.
 
 ![image alt](https://github.com/jefferyokpala/MySQL-Project-Ecommerce-Online-Sales/blob/main/image/image8.png?raw=true)
 
