@@ -2,7 +2,7 @@
 
 ## Overview
 
-SQL-based data analysis of an ecommerce online sales dataset. The dataset contains 8 columns and 541,910 rows. it contains the following columns: invoice number, stock code, description, quantity, invoice date, unit price, customerID, and country. They provide information on the customers shopping at the ecommerce store and the items they bought. 
+SQL-based data analysis of an ecommerce online sales dataset. The dataset contains 8 columns and 541,910 rows. It contains the following columns: invoice number, stock code, description, quantity, invoice date, unit price, customerID, and country. They provide information on the customers shopping at the ecommerce store and the items they bought. 
 
 ## Data Source
 
