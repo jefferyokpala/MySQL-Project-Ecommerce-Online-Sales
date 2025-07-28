@@ -44,9 +44,9 @@ MySQL WorkBench
 
 ![image alt](https://github.com/jefferyokpala/MySQL-Project-Ecommerce-Online-Sales/blob/main/image/image9.png?raw=true)
 
-* While exploring the stock code column, I noticed some entries were either strings or alphanumeric characters, and I believed that column is supposed to only contain numbers. However, I did not clean those rows because I believed they would not have a major impact on my ability to analyse the dataset, and deleting them may make me lose valuable information.
+* While exploring the stock code column, I noticed some entries were either strings or alphanumeric characters, and I believed that column is only supposed to contain numbers. However, I did not remove those rows because I believed they would not have a major impact on my ability to analyse the dataset, and deleting them may make me lose valuable information.
 
-* Furthermore, I found 1,179 rows where the unit price column had “0” values. I looked at the product description column, and many were blank, and had entries like “damaged”, “check”, “found”, “Amazon”, and “for online retail orders”. However, some seemed like legit product descriptions. Since products listed should not have “0” unit prices and many of the descriptions were out of place, I deleted all affected rows.
+* Furthermore, I found 1,179 rows where the unit price column had “0” values. I looked at the product description column, and many were blank, while some had entries like “damaged”, “check”, “found”, “Amazon”, and “for online retail orders”. However, some seemed like legitimate product descriptions. Since the products listed should not have a “0” unit price and many of the descriptions were out of place, I deleted all affected rows.
 
 * In the country column, I changed the entries called “EIRE” and “RSA” to “Ireland” and “South Africa” respectively because those are the more recognised names.
 
