@@ -12,7 +12,7 @@ I obtained the dataset from Kaggle, and it can be found [here](https://www.kaggl
 
 Data cleaning, feature engineering, and exploratory data analysis of Online ecommerce sales data using MySQL Workbench
 
-## Tools
+## Tool
 
 MySQL WorkBench
 
