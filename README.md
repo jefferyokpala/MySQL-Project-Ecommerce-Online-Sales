@@ -62,7 +62,7 @@ MySQL WorkBench
 
 ![image alt](https://github.com/jefferyokpala/MySQL-Project-Ecommerce-Online-Sales/blob/main/image/image12.png?raw=true)
 
-* I also had to break down each sale to the day of week, month, and time of day (morning, afternoon, or night) from the datetime provided in the dataset to know the days of the week, month, and times of day customers were likely to purchase items. That information can inspire marketing campaigns focused on the days of the week and times of the week when sales are relatively low to boost sales during those periods.
+* I also had to break down each sale to the day of week, month, and time of day (morning, afternoon, or night) from the datetime provided in the dataset to know the days of the week, month, and times of day customers were likely to purchase items. That information can inspire marketing campaigns focused on the days of the week and times of the day when sales are relatively low to boost sales during those periods.
 
 ![image alt](https://github.com/jefferyokpala/MySQL-Project-Ecommerce-Online-Sales/blob/main/image/image2.png?raw=true)
 
