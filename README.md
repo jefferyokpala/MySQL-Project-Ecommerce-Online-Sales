@@ -10,7 +10,7 @@ I obtained the dataset from Kaggle, and it can be found [here](https://www.kaggl
 
 ## Business Task
 
-Data cleaning, feature engineering, and exploratory data analysis of Online ecommerce sales data using MySQL Workbench
+Data cleaning, feature engineering, and exploratory data analysis of Online ecommerce sales data to find sales and revenue trends to optimize operations.
 
 ## Tool
 
